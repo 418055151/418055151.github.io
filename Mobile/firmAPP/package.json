@@ -15,7 +15,7 @@
     "css-loader": "^0.28.11",
     "echarts": "^4.1.0",
     "element-ui": "^2.3.7",
-    "jquery": "^2.2.3",
+    "jquery": "^3.5.0",
     "muse-ui": "^2.1.0",
     "v-charts": "^1.17.9",
     "vue": "^2.5.2",
